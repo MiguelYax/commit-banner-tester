@@ -5,3 +5,4 @@
 - 2015-01-08 - Add commit for character: w - [0,4]
 - 2015-01-09 - Add commit for character: w - [0,5]
 - 2015-01-10 - Add commit for character: w - [0,6]
+- 2015-01-15 - Add commit for character: w - [1,4]
