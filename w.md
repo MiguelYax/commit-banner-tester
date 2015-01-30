@@ -9,3 +9,4 @@
 - 2015-01-16 - Add commit for character: w
 - 2015-01-21 - Add commit for character: w
 - 2015-01-29 - Add commit for character: w
+- 2015-01-30 - Add commit for character: w
