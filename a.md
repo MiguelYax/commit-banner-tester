@@ -2,3 +2,4 @@
 2015-02-17 - Add commit for character: a - [0,2]
 2015-02-18 - Add commit for character: a - [0,3]
 2015-02-19 - Add commit for character: a - [0,4]
+2015-02-20 - Add commit for character: a - [0,5]
