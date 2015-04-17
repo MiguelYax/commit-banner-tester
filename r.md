@@ -9,3 +9,4 @@
 - 2015-04-08 - Add commit for character: r - [1,3]
 - 2015-04-12 - Add commit for character: r - [2,0]
 - 2015-04-15 - Add commit for character: r - [2,3]
+- 2015-04-16 - Add commit for character: r - [2,4]
