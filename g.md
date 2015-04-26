@@ -11,3 +11,4 @@
 - 2015-04-19 - Add commit for character: g
 - 2015-04-22 - Add commit for character: g
 - 2015-04-25 - Add commit for character: g
+- 2015-04-26 - Add commit for character: g
