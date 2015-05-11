@@ -7,3 +7,4 @@
 - 2015-05-02 - Add commit for character: u
 - 2015-05-09 - Add commit for character: u
 - 2015-05-10 - Add commit for character: u
+- 2015-05-11 - Add commit for character: u
