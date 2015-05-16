@@ -16,3 +16,4 @@
 - 2015-05-13 - Add commit for character: w
 - 2015-05-14 - Add commit for character: w
 - 2015-05-15 - Add commit for character: w
+- 2015-05-16 - Add commit for character: w
