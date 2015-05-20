@@ -1,3 +1,4 @@
 - 2015-05-17 - Add commit for character: e
 - 2015-05-18 - Add commit for character: e
 - 2015-05-19 - Add commit for character: e
+- 2015-05-20 - Add commit for character: e
