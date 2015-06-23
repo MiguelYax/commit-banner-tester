@@ -1,0 +1,1 @@
+- 2015-06-22 - Add commit for character: o - [0,1]
