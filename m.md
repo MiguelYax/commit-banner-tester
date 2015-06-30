@@ -6,3 +6,4 @@
 - 2015-06-19 - Add commit for character: m
 - 2015-06-20 - Add commit for character: m
 - 2015-06-22 - Add commit for character: m
+- 2015-06-30 - Add commit for character: m
