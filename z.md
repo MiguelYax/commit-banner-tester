@@ -3,3 +3,4 @@
 - 2015-06-26 - Add commit for character: z
 - 2015-06-27 - Add commit for character: z
 - 2015-06-28 - Add commit for character: z
+- 2015-07-01 - Add commit for character: z
