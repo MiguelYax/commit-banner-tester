@@ -7,3 +7,4 @@
 - 2015-07-04 - Add commit for character: o - [1,6]
 - 2015-07-05 - Add commit for character: o - [2,0]
 - 2015-07-11 - Add commit for character: o - [2,6]
+- 2015-07-12 - Add commit for character: o - [3,0]
