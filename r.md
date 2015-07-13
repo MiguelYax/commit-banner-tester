@@ -1,1 +1,2 @@
 - 2015-07-12 - Add commit for character: r
+- 2015-07-13 - Add commit for character: r
