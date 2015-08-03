@@ -16,3 +16,4 @@
 - 2015-04-27 - Add commit for character: r - [4,1]
 - 2015-04-28 - Add commit for character: r - [4,2]
 - 2015-05-02 - Add commit for character: r - [4,6]
+- 2015-08-02 - Add commit for character: r - [0,0]
