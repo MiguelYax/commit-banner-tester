@@ -5,3 +5,4 @@
 - 2015-08-06 - Add commit for character: l
 - 2015-08-07 - Add commit for character: l
 - 2015-08-08 - Add commit for character: l
+- 2015-08-15 - Add commit for character: l
