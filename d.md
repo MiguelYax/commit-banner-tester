@@ -3,3 +3,4 @@
 - 2015-08-25 - Add commit for character: d
 - 2015-08-26 - Add commit for character: d
 - 2015-08-27 - Add commit for character: d
+- 2015-08-28 - Add commit for character: d
