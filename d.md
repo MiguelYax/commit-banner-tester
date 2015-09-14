@@ -1,0 +1,1 @@
+- 2015-09-13 - Add commit for character: d - [0,0]
