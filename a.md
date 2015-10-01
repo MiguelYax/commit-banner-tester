@@ -33,3 +33,4 @@
 - 2015-09-28 - Add commit for character: a
 - 2015-09-29 - Add commit for character: a
 - 2015-09-30 - Add commit for character: a
+- 2015-10-01 - Add commit for character: a
