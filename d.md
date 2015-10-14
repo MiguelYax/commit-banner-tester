@@ -12,3 +12,4 @@
 - 2015-10-04 - Add commit for character: d - [3,0]
 - 2015-10-10 - Add commit for character: d - [3,6]
 - 2015-10-12 - Add commit for character: d - [4,1]
+- 2015-10-13 - Add commit for character: d - [4,2]
