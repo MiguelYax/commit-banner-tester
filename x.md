@@ -2,3 +2,4 @@
 - 2015-12-14 - Add commit for character: x
 - 2015-12-18 - Add commit for character: x
 - 2015-12-19 - Add commit for character: x
+- 2015-12-22 - Add commit for character: x
